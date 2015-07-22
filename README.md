@@ -1,2 +1,4 @@
 # CoolerController
-PIC16F886/NTC/Seg-LED/Key/PhaseChk/IO
+HARDWARE:PIC16F886/NTC/Seg-LED/Key/PhaseChk/IO
+IDE:MPLAB X v1.95+HI-TECH PICC v9.83
+
